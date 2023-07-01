@@ -175,9 +175,13 @@ header li {
     margin-right: 0;
 }
 
-@media only screen and (max-width: 1056px) {
+@media only screen and (max-width: 768px) {
     body {
         font-size: 16px;
+    }
+
+    .heading a {
+        padding-inline: 10px;
     }
 
     th, td {
