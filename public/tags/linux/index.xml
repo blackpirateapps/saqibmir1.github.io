@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux on Saqib’s Site</title>
+    <link>/tags/linux/</link>
+    <description>Recent content in linux on Saqib’s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Jun 2023 18:23:07 +0530</lastBuildDate><atom:link href="/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Switching to Hyprland</title>
+      <link>/blog/switching-to-hyprland/</link>
+      <pubDate>Wed, 07 Jun 2023 18:23:07 +0530</pubDate>
+      
+      <guid>/blog/switching-to-hyprland/</guid>
+      <description>Hyprland is a dynamic tiling Wayland (a replacement for the X11 window system protocol and architectur) compositor based on wlroots.
+Introduction I have used tiling window manager ever since i came to know about them (very recently really). I was using dwm which is based on xorg but since everybody was moving to hyprland i decided i should move to wayland too since it is modern and more efficient than xorg.</description>
+    </item>
+    
+  </channel>
+</rss>
