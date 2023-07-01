@@ -182,6 +182,9 @@ header li {
 
     .heading a {
         padding-inline: 10px;
+    }
+
+    .header-link {
         font-size: 15px;
     }
 
